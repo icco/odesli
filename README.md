@@ -1,7 +1,6 @@
 # odesli
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/icco/odesli.svg)](https://pkg.go.dev/github.com/icco/odesli)
-[![Go Report Card](https://goreportcard.com/badge/github.com/icco/odesli)](https://goreportcard.com/report/github.com/icco/odesli)
 [![Test Go](https://github.com/icco/odesli/actions/workflows/test.yml/badge.svg)](https://github.com/icco/odesli/actions/workflows/test.yml)
 
 A Go client for the [Odesli](https://odesli.co) (song.link / album.link) API.
