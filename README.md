@@ -1,6 +1,6 @@
 # odesli
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/icco/odesli.svg)](https://pkg.go.dev/github.com/icco/odesli)
+[![Go Reference](https://pkg.go.dev/badge/go.icco.me/odesli.svg)](https://pkg.go.dev/go.icco.me/odesli)
 [![Test Go](https://github.com/icco/odesli/actions/workflows/test.yml/badge.svg)](https://github.com/icco/odesli/actions/workflows/test.yml)
 
 A Go client for the [Odesli](https://odesli.co) (song.link / album.link) API.
@@ -10,7 +10,7 @@ Give it a link to a song or album on any one streaming service and it returns th
 No API key required. [Request one](https://odesli.co/#contact) if you need more than 10 requests per minute.
 
 ```
-go get github.com/icco/odesli
+go get go.icco.me/odesli
 ```
 
 ## Usage

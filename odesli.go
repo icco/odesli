@@ -26,7 +26,7 @@ const DefaultBaseURL = "https://api.song.link/v1-alpha.1/links"
 
 // DefaultUserAgent identifies this client to Odesli. Override it with
 // WithUserAgent to identify your application instead.
-const DefaultUserAgent = "github.com/icco/odesli"
+const DefaultUserAgent = "go.icco.me/odesli"
 
 // defaultTimeout bounds a request when the caller supplies no HTTP client.
 const defaultTimeout = 15 * time.Second

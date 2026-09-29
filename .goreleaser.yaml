@@ -25,6 +25,6 @@ release:
   mode: replace
   footer: |
     ---
-    Install with `go get github.com/icco/odesli@{{ .Tag }}`.
+    Install with `go get go.icco.me/odesli@{{ .Tag }}`.
 
     **Full Changelog**: https://github.com/icco/odesli/compare/{{ .PreviousTag }}...{{ .Tag }}
